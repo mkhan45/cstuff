@@ -1,3 +1,3 @@
 int main(){
-		int i = 5 + 5;
+    int i = 5 + 5;
 }

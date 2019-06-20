@@ -1,0 +1,1 @@
+{"rustc":804226499018287853,"features":"[]","target":18005190994339199734,"profile":2574335274271406459,"path":1036222786711178230,"deps":[["criterion v0.2.11","criterion",4237351294416646279]],"local":[{"MtimeBased":[[1560918490,741601167],".fingerprint/reverse_rs-09d8aeb39941bc29/dep-bin-reverse_rs-09d8aeb39941bc29"]}],"rustflags":[],"edition":"Edition2018"}
